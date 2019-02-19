@@ -1,0 +1,30 @@
+﻿.nav-top-right-red {
+        background-color: maroon !important;
+}
+
+.skin-blue .main-header .logo{
+
+background-color:#19283f !important;
+}
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+background-color:#19283f !important;
+
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover, .skin-blue .main-header li.user-header {
+    background-color: #19283f;
+}
+
+.skin-blue .sidebar-menu>li:hover >a, .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li.menu-open>a {
+    color: #fff;
+    background: #5A79A5;
+}
+
+.skin-blue .sidebar-menu>li>.treeview-menu {
+    margin: 0 1px;
+    background: #425b82 !important;
+}
+
+
+
+
